@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Demo Image](images/demo.png)
+
 This is a simple 3D airplane simulation built with the **Ursina Engine**. It allows players to control an airplane in a limited 3D environment with basic physics, camera zoom, and HUD indicators for speed, altitude, roll, vertical speed, and compass direction.
 
 ## Features
